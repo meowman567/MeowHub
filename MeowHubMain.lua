@@ -2,7 +2,8 @@ local Whitelist = loadstring(game:HttpGet('https://raw.githubusercontent.com/meo
 local CHWID = game:GetService("RbxAnalyticsService"):GetClientId()
 
 local Games = {
-    [4866692557] = "https://raw.githubusercontent.com/meowman567/MeowHub/main/GameScripts/AgeOfHeros.lua"
+    [4866692557] = "https://raw.githubusercontent.com/meowman567/MeowHub/main/GameScripts/AgeOfHeros.lua",
+    [1012555741] = "https://raw.githubusercontent.com/meowman567/MeowHub/main/GameScripts/NPT.lua"
 }
 
 if Whitelist["Whitelisted"][CHWID] then

@@ -13,6 +13,10 @@ Whitelist["Whitelisted"] = {
         ["Name"] = "Pft",
         ["Rank"] = "Owner"
     }
+    ["D557A6DF-FA98-468B-85D6-E18F447B26C"] = {
+        ["Name"] = "KM",
+        ["Rank"] = "Executive"
+    }
 }
 
 return Whitelist
